@@ -1,0 +1,3 @@
+social_tags_homepage:
+    pattern:  /opengraph/{locationId}
+    defaults: { _controller: SocialTagsBundle:Tags:opengraph }
