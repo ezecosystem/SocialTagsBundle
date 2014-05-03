@@ -11,8 +11,8 @@ Social tags bundle for eZ Publish (facebook opengraph, twitter, pinterest, etc)
 
 
 ## Install
--- 1/ install bundle in src/nlescure/SocialTagsBundle
--- 2/ activate the bundle in EzPublishKernel.php :
+- 1/ install bundle in src/nlescure/SocialTagsBundle
+- 2/ activate the bundle in EzPublishKernel.php :
     new nlescure\SocialTagsBundle\SocialTagsBundle(),
 
 ## Opengraph usage :
